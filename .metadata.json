@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dub",
+    "oncran": true
+  },
+  {
+    "package": "gestalt",
+    "oncran": true
+  },
+  {
+    "package": "nofrills",
+    "oncran": true
+  },
+  {
+    "package": "valaddin",
+    "oncran": true
+  }
+]
