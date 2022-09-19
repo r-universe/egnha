@@ -1,9 +1,5 @@
 [
   {
-    "package": "dub",
-    "oncran": true
-  },
-  {
     "package": "gestalt",
     "oncran": true
   },
