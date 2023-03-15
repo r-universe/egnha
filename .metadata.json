@@ -1,5 +1,9 @@
 [
   {
+    "package": "dub",
+    "oncran": true
+  },
+  {
     "package": "gestalt",
     "oncran": true
   },
@@ -9,10 +13,6 @@
   },
   {
     "package": "valaddin",
-    "oncran": true
-  },
-  {
-    "package": "dub",
     "oncran": true
   }
 ]
