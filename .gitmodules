@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dub"]
 	path = dub
 	url = https://github.com/egnha/dub
-	shallow = true
-	registered = true
 [submodule "gestalt"]
 	path = gestalt
 	url = https://github.com/egnha/gestalt
-	shallow = true
-	registered = true
 [submodule "nofrills"]
 	path = nofrills
 	url = https://github.com/egnha/nofrills
-	shallow = true
-	registered = true
 [submodule "valaddin"]
 	path = valaddin
 	url = https://github.com/egnha/valaddin
-	shallow = true
-	registered = true
